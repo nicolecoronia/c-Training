@@ -1,0 +1,7 @@
+c:\users\user-pc\source\repos\makingDecision\makingDecision\bin\Debug\makingDecision.exe.config
+c:\users\user-pc\source\repos\makingDecision\makingDecision\bin\Debug\makingDecision.exe
+c:\users\user-pc\source\repos\makingDecision\makingDecision\bin\Debug\makingDecision.pdb
+c:\users\user-pc\source\repos\makingDecision\makingDecision\obj\Debug\makingDecision.csprojAssemblyReference.cache
+c:\users\user-pc\source\repos\makingDecision\makingDecision\obj\Debug\makingDecision.csproj.CoreCompileInputs.cache
+c:\users\user-pc\source\repos\makingDecision\makingDecision\obj\Debug\makingDecision.exe
+c:\users\user-pc\source\repos\makingDecision\makingDecision\obj\Debug\makingDecision.pdb

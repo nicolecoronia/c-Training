@@ -1,0 +1,7 @@
+C:\Users\IA User\source\repos\TimeDiffrence\TimeDiffrence\obj\Debug\TimeDiffrence.csprojAssemblyReference.cache
+C:\Users\IA User\source\repos\TimeDiffrence\TimeDiffrence\obj\Debug\TimeDiffrence.csproj.CoreCompileInputs.cache
+C:\Users\IA User\source\repos\TimeDiffrence\TimeDiffrence\bin\Debug\TimeDiffrence.exe.config
+C:\Users\IA User\source\repos\TimeDiffrence\TimeDiffrence\bin\Debug\TimeDiffrence.exe
+C:\Users\IA User\source\repos\TimeDiffrence\TimeDiffrence\bin\Debug\TimeDiffrence.pdb
+C:\Users\IA User\source\repos\TimeDiffrence\TimeDiffrence\obj\Debug\TimeDiffrence.exe
+C:\Users\IA User\source\repos\TimeDiffrence\TimeDiffrence\obj\Debug\TimeDiffrence.pdb

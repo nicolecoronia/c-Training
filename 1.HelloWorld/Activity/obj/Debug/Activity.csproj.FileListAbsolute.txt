@@ -1,0 +1,7 @@
+c:\users\user-pc\source\repos\Helloworld\Activity\obj\Debug\Activity.csprojAssemblyReference.cache
+c:\users\user-pc\source\repos\Helloworld\Activity\obj\Debug\Activity.csproj.CoreCompileInputs.cache
+c:\users\user-pc\source\repos\Helloworld\Activity\bin\Debug\Activity.exe.config
+c:\users\user-pc\source\repos\Helloworld\Activity\bin\Debug\Activity.exe
+c:\users\user-pc\source\repos\Helloworld\Activity\bin\Debug\Activity.pdb
+c:\users\user-pc\source\repos\Helloworld\Activity\obj\Debug\Activity.exe
+c:\users\user-pc\source\repos\Helloworld\Activity\obj\Debug\Activity.pdb

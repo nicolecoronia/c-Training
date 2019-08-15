@@ -1,0 +1,7 @@
+c:\users\user-pc\source\repos\string\string\bin\Debug\@string.exe.config
+c:\users\user-pc\source\repos\string\string\bin\Debug\@string.exe
+c:\users\user-pc\source\repos\string\string\bin\Debug\@string.pdb
+c:\users\user-pc\source\repos\string\string\obj\Debug\string.csprojAssemblyReference.cache
+c:\users\user-pc\source\repos\string\string\obj\Debug\string.csproj.CoreCompileInputs.cache
+c:\users\user-pc\source\repos\string\string\obj\Debug\@string.exe
+c:\users\user-pc\source\repos\string\string\obj\Debug\@string.pdb

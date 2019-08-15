@@ -1,0 +1,7 @@
+C:\Users\IA User\source\repos\loopingtech\loopingtech\bin\Debug\loopingtech.exe.config
+C:\Users\IA User\source\repos\loopingtech\loopingtech\bin\Debug\loopingtech.exe
+C:\Users\IA User\source\repos\loopingtech\loopingtech\bin\Debug\loopingtech.pdb
+C:\Users\IA User\source\repos\loopingtech\loopingtech\obj\Debug\loopingtech.csprojAssemblyReference.cache
+C:\Users\IA User\source\repos\loopingtech\loopingtech\obj\Debug\loopingtech.csproj.CoreCompileInputs.cache
+C:\Users\IA User\source\repos\loopingtech\loopingtech\obj\Debug\loopingtech.exe
+C:\Users\IA User\source\repos\loopingtech\loopingtech\obj\Debug\loopingtech.pdb

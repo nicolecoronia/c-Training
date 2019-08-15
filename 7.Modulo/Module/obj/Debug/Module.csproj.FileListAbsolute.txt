@@ -1,0 +1,7 @@
+C:\Users\IA User\source\repos\Module\Module\bin\Debug\Module.exe.config
+C:\Users\IA User\source\repos\Module\Module\bin\Debug\Module.exe
+C:\Users\IA User\source\repos\Module\Module\bin\Debug\Module.pdb
+C:\Users\IA User\source\repos\Module\Module\obj\Debug\Module.csprojAssemblyReference.cache
+C:\Users\IA User\source\repos\Module\Module\obj\Debug\Module.csproj.CoreCompileInputs.cache
+C:\Users\IA User\source\repos\Module\Module\obj\Debug\Module.exe
+C:\Users\IA User\source\repos\Module\Module\obj\Debug\Module.pdb

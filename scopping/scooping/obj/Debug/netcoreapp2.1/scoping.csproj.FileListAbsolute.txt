@@ -1,0 +1,11 @@
+C:\Users\IA User\source\repos\scooping\scooping\bin\Debug\netcoreapp2.1\scoping.deps.json
+C:\Users\IA User\source\repos\scooping\scooping\bin\Debug\netcoreapp2.1\scoping.runtimeconfig.json
+C:\Users\IA User\source\repos\scooping\scooping\bin\Debug\netcoreapp2.1\scoping.runtimeconfig.dev.json
+C:\Users\IA User\source\repos\scooping\scooping\bin\Debug\netcoreapp2.1\scoping.dll
+C:\Users\IA User\source\repos\scooping\scooping\bin\Debug\netcoreapp2.1\scoping.pdb
+C:\Users\IA User\source\repos\scooping\scooping\obj\Debug\netcoreapp2.1\scoping.csprojAssemblyReference.cache
+C:\Users\IA User\source\repos\scooping\scooping\obj\Debug\netcoreapp2.1\scoping.csproj.CoreCompileInputs.cache
+C:\Users\IA User\source\repos\scooping\scooping\obj\Debug\netcoreapp2.1\scoping.AssemblyInfoInputs.cache
+C:\Users\IA User\source\repos\scooping\scooping\obj\Debug\netcoreapp2.1\scoping.AssemblyInfo.cs
+C:\Users\IA User\source\repos\scooping\scooping\obj\Debug\netcoreapp2.1\scoping.dll
+C:\Users\IA User\source\repos\scooping\scooping\obj\Debug\netcoreapp2.1\scoping.pdb
