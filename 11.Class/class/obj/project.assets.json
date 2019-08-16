@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IA User\\source\\repos\\class\\class\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\IA User\\Desktop\\c-Training\\11.Class\\class\\Classes.csproj",
       "projectName": "Classes",
-      "projectPath": "C:\\Users\\IA User\\source\\repos\\class\\class\\Classes.csproj",
+      "projectPath": "C:\\Users\\IA User\\Desktop\\c-Training\\11.Class\\class\\Classes.csproj",
       "packagesPath": "C:\\Users\\IA User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IA User\\source\\repos\\class\\class\\obj\\",
+      "outputPath": "C:\\Users\\IA User\\Desktop\\c-Training\\11.Class\\class\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

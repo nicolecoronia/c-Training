@@ -4,3 +4,5 @@ c:\users\user-pc\source\repos\var\var\bin\Debug\var.exe
 c:\users\user-pc\source\repos\var\var\bin\Debug\var.pdb
 c:\users\user-pc\source\repos\var\var\obj\Debug\var.exe
 c:\users\user-pc\source\repos\var\var\obj\Debug\var.pdb
+C:\Users\IA User\Desktop\c-Training\2.Variables\var\obj\Debug\var.exe
+C:\Users\IA User\Desktop\c-Training\2.Variables\var\obj\Debug\var.pdb

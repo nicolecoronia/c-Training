@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IA User\\source\\repos\\scooping\\scooping\\scoping.csproj": {}
+    "C:\\Users\\IA User\\Desktop\\c-Training\\12.Scoping\\scooping\\scoping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IA User\\source\\repos\\scooping\\scooping\\scoping.csproj": {
+    "C:\\Users\\IA User\\Desktop\\c-Training\\12.Scoping\\scooping\\scoping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IA User\\source\\repos\\scooping\\scooping\\scoping.csproj",
+        "projectUniqueName": "C:\\Users\\IA User\\Desktop\\c-Training\\12.Scoping\\scooping\\scoping.csproj",
         "projectName": "scoping",
-        "projectPath": "C:\\Users\\IA User\\source\\repos\\scooping\\scooping\\scoping.csproj",
+        "projectPath": "C:\\Users\\IA User\\Desktop\\c-Training\\12.Scoping\\scooping\\scoping.csproj",
         "packagesPath": "C:\\Users\\IA User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IA User\\source\\repos\\scooping\\scooping\\obj\\",
+        "outputPath": "C:\\Users\\IA User\\Desktop\\c-Training\\12.Scoping\\scooping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

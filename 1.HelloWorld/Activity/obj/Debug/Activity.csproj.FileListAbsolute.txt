@@ -5,3 +5,5 @@ c:\users\user-pc\source\repos\Helloworld\Activity\bin\Debug\Activity.exe
 c:\users\user-pc\source\repos\Helloworld\Activity\bin\Debug\Activity.pdb
 c:\users\user-pc\source\repos\Helloworld\Activity\obj\Debug\Activity.exe
 c:\users\user-pc\source\repos\Helloworld\Activity\obj\Debug\Activity.pdb
+C:\Users\IA User\Desktop\c-Training\1.HelloWorld\Activity\obj\Debug\Activity.exe
+C:\Users\IA User\Desktop\c-Training\1.HelloWorld\Activity\obj\Debug\Activity.pdb
